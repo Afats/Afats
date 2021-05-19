@@ -11,7 +11,7 @@ Passionate about cybersecurity, data visualization and UI/UX design. I enjoy cur
  
 <p align="center">
 <!--[Mustafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Afats&theme=graywhite&show_icons=true&count_private=true)-->
-  <img src="https://github-readme-stats.vercel.app/api?username=Afats&theme=graywhite&show_icons=true&count_private=true&include_all_commits=true" alt="Github readme stats"/>
+  <!--<img src="https://github-readme-stats.vercel.app/api?username=Afats&theme=graywhite&show_icons=true&count_private=true&include_all_commits=true" alt="Github readme stats"/>-->
   </p>
 <br>
 
