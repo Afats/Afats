@@ -21,14 +21,16 @@ Passionate about cybersecurity, data visualization and UI/UX design. I enjoy cur
 <img src="icons/python-original.svg" alt="Python" height="30" style="vertical-align:top; margin:4px">
 <img src="icons/javascript-original.svg" alt="Javascript" height="30" style="vertical-align:top; margin:4px">
 <img src="icons/git-plain.svg" alt="Git" height="30" style="vertical-align:top; margin:4px">
-<img src="icons/postgresql-plain.svg" alt="Postgres" height="30" style="vertical-align:top; margin:4px">
+<img src="icons/bootstrap-plain.svg" alt="Git" height="30" style="vertical-align:top; margin:4px">
+<img src="icons/c-original.svg" alt="Git" height="30" style="vertical-align:top; margin:4px">
+<!--<img src="icons/postgresql-plain.svg" alt="Postgres" height="30" style="vertical-align:top; margin:4px">-->
 <img src="icons/nodejs-plain.svg" alt="NodeJS" height="30" style="vertical-align:top; margin:4px">
 
 </p>
 <br>
 
 <p align="center">
-<!--[Mustafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Afats&theme=graywhite&show_icons=true&count_private=true)--!>
+<!--[Mustafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Afats&theme=graywhite&show_icons=true&count_private=true)-->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afats&langs_count=8&layout=compact" alt="Github language stats"/>
   </p>
 <br> 
