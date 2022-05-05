@@ -2,7 +2,7 @@
 ![profile count](https://komarev.com/ghpvc/?username=Afats&color=blue)&nbsp;
 [![GitHub Afats](https://img.shields.io/github/followers/Afats?label=follow&style=social)](https://github.com/Afats)&nbsp;
 <br>
-I'm passionate about blockchain tech and product design. I DJ, and am an avid soccer and Formula 1 fan.
+Welcome stalker. I'm passionate about blockchain tech and product design.
 
 <p align="center" style="box-shadow:0 0 10px 2px rgba(0,0,0,0.06);">
 <img class="text-center" src="https://media.giphy.com/media/ui9twqrw0GSA0/giphy.gif" width="300" height="225" />
