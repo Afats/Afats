@@ -1,8 +1,8 @@
-### Hi there 👋
+<h1 align="center"><b>Hi there 👋<b></h1>
 ![profile count](https://komarev.com/ghpvc/?username=Afats&color=blue)&nbsp;
 [![GitHub Afats](https://img.shields.io/github/followers/Afats?label=follow&style=social)](https://github.com/Afats)&nbsp;
 <br>
-Welcome stalker. I'm passionate about distributed ledger techology and product design.
+<p align="center">Welcome stalker. I'm passionate about distributed ledger techology and product design.</p>
 
 <p align="center" style="box-shadow:0 0 10px 2px rgba(0,0,0,0.06);">
 <img class="text-center" src="https://media.giphy.com/media/ui9twqrw0GSA0/giphy.gif" width="300" height="225" />
@@ -13,7 +13,7 @@ Welcome stalker. I'm passionate about distributed ledger techology and product d
   </p>
 <br>
 
-<p>Some random, probably useless, even incorrect language stats:</p>
+<p align="center">Some random, probably useless, even incorrect language stats:</p>
 <br>
 <p align="center">
 <!-- <img src="icons/python-original.svg" alt="Python" height="30" style="vertical-align:top; margin:4px">
