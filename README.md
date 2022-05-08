@@ -13,15 +13,15 @@ Welcome stalker. I'm passionate about distributed ledger techology and product d
   </p>
 <br>
 
-<p>Languages and tools I've worked with:</p>
+<p>Some random, probably useless, even incorrect language stats:</p>
 <br>
 <p align="center">
-<img src="icons/python-original.svg" alt="Python" height="30" style="vertical-align:top; margin:4px">
+<!-- <img src="icons/python-original.svg" alt="Python" height="30" style="vertical-align:top; margin:4px">
 <img src="icons/javascript-original.svg" alt="Javascript" height="30" style="vertical-align:top; margin:4px">
 <img src="icons/git-plain.svg" alt="Git" height="30" style="vertical-align:top; margin:4px">
 <img src="icons/bootstrap-plain.svg" alt="Git" height="30" style="vertical-align:top; margin:4px">
 <img src="icons/c-original.svg" alt="Git" height="30" style="vertical-align:top; margin:4px">
-<img src="icons/nodejs-plain.svg" alt="NodeJS" height="30" style="vertical-align:top; margin:4px">
+<img src="icons/nodejs-plain.svg" alt="NodeJS" height="30" style="vertical-align:top; margin:4px"> -->
 
 </p>
 <br>
