@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![profile count](https://komarev.com/ghpvc/?username=Afats&color=blue)&nbsp;
-![GitHub Afats](https://img.shields.io/github/followers/Afats?label=follow&style=social)](https://github.com/Afats)&nbsp;
+[![GitHub Afats](https://img.shields.io/github/followers/Afats?label=follow&style=social)](https://github.com/Afats)&nbsp;
 <br>
 Welcome stalker. I'm passionate about distributed ledger techology and product design.
 
