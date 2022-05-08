@@ -29,5 +29,7 @@ Welcome stalker. I'm passionate about distributed ledger techology and product d
 <p align="center">
 <!--[Mustafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Afats&theme=graywhite&show_icons=true&count_private=true)-->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afats&langs_count=8&layout=compact" alt="Github language stats"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=Afats&theme=graywhite&show_icons=true&count_private=true" alt="Github language stats"/>
   </p>
 <br> 
