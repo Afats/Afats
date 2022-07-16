@@ -1,5 +1,5 @@
 ![profile count](https://komarev.com/ghpvc/?username=Afats&color=blue)&nbsp;
-[![GitHub Afats](https://img.shields.io/github/followers/Afats?label=follow&style=social)](https://github.com/Afats)&nbsp;
+<!-- [![GitHub Afats](https://img.shields.io/github/followers/Afats?label=follow&style=social)](https://github.com/Afats)&nbsp; -->
 <h1 align="center"><b>Yooo. 👋<b></h1>
 <br>
 <p align="center">Welcome stalker. I like cybersecurity, distributed ledger techology and product design.</p>
